@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Computer Science at Shenyuan Honors Collage, Beihang University, supervised by Professors [Richong Zhang](https://zhangrichong.github.io/) and [Yongyi Mao](https://www.eecs.uottawa.ca/~yymao/) (uOttawa). I began my undergraduate studies at Beihang University in 2017 and transitioned into the Ph.D. program in 2021.
+I am a Ph.D. candidate in Computer Science at Shenyuan Honors Collage, Beihang University, supervised by Professors [Richong Zhang](https://zhangrichong.github.io/) and [Yongyi Mao](https://www.eecs.uottawa.ca/~yymao/) (uOttawa). I finished my undergraduate studies at Beihang University and transitioned into the Ph.D. program in 2021.
 
-I am visiting MBZUAI in the UAE, collaborating with Prof. [Qiang Sun](https://sites.google.com/view/qsun) (Uoft).
+I am visiting MBZUAI in UAE, supervised by Prof. [Qiang Sun](https://sites.google.com/view/qsun) (Uoft).
 
 I  have a broad interest in natural language processing, especially for **text representation learning**.
 
