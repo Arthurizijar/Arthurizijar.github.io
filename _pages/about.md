@@ -44,8 +44,8 @@ I have a broad interest in natural language processing, especially for **text re
 
 ### Others
 
-1. Yani Huang, Richong Zhang, <u>Zhijie Nie</u>, Junfan Chen, Xuefeng Zhang. A Graph-based Verification Framework for Fact-Checking. **Preprint**
-2. Peiyi Zhang, Richong Zhang, <u>Zhijie Nie</u>. Dynamic Task Vector Grouping for Efficient Multi-Task Prompt Tuning. **Preprint**
+1. Peiyi Zhang, Richong Zhang, <u>Zhijie Nie</u>. Dynamic Task Vector Grouping for Efficient Multi-Task Prompt Tuning. **ACL 2025 Findings**
+2. Yani Huang, Richong Zhang, <u>Zhijie Nie</u>, Junfan Chen, Xuefeng Zhang. A Graph-based Verification Framework for Fact-Checking. **Preprint**
 3. Fanshuang Kong, Richong Zhang, <u>Zhijie Nie</u>, Ziqiao Wang. Rethink the Evaluation Protocol of Model Merging on Classification Task. **Preprint**
 
 ------
